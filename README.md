@@ -1,4 +1,4 @@
-A hotel management system created with Java Swing. 
+A hotel management system created with Java Swing and powered with PostgreSQL. 
 
 You may create employee or admin accounts. Each account has different skills.
 
@@ -10,11 +10,14 @@ On the employee side, you may add hotels, hotel stars, and different service fea
 
 An employee may create a reservation by entering season type, individual amount and price as currency amount.  
 
-And of course editing or deleting a reservation is possible as well.
+And of course editing or deleting for a reservation is possible as well.
 
 You may reach to the project video by clicking the link below;
 
 https://youtu.be/i96mvn4MCA4
 
-JDK version : 21.0.1
+And repo link below as well;
 
+https://github.com/Keremyardan/Tourism_Agency.git
+
+JDK version : 21.0.1
