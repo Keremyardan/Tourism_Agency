@@ -1,4 +1,4 @@
-A hotel management system created with Java Swing and powered with PostgreSQL. 
+A tourism agency system created with Java Swing and powered with PostgreSQL. 
 
 You may create employee or admin accounts. Each account has different skills.
 
